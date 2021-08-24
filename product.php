@@ -555,7 +555,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<!-- logo -->
 				<div class="col-md-3 logo_agile">
 					<h1 class="text-center">
-						<a href="index.html" class="font-weight-bold font-italic">
+						<a href="index.php" class="font-weight-bold font-italic">
 							<img src="images/logo2.png" alt=" " class="img-fluid">Electro Store
 						</a>
 					</h1>
@@ -619,7 +619,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav ml-auto text-center mr-xl-5">
 						<li class="nav-item mr-lg-2 mb-lg-0 mb-2">
-							<a class="nav-link" href="index.html">Home
+							<a class="nav-link" href="index.php">Home
 								<span class="sr-only">(current)</span>
 							</a>
 						</li>
@@ -634,56 +634,56 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<div class="col-sm-6 multi-gd-img">
 											<ul class="multi-column-dropdown">
 												<li>
-													<a href="product.html">All Mobile Phones</a>
+													<a href="product.php">All Mobile Phones</a>
 												</li>
 												<li>
-													<a href="product.html">All Mobile Accessories</a>
+													<a href="product.php">All Mobile Accessories</a>
 												</li>
 												<li>
-													<a href="product.html">Cases & Covers</a>
+													<a href="product.php">Cases & Covers</a>
 												</li>
 												<li>
-													<a href="product.html">Screen Protectors</a>
+													<a href="product.php">Screen Protectors</a>
 												</li>
 												<li>
-													<a href="product.html">Power Banks</a>
+													<a href="product.php">Power Banks</a>
 												</li>
 												<li>
-													<a href="product.html">All Certified Refurbished</a>
+													<a href="product.php">All Certified Refurbished</a>
 												</li>
 												<li>
-													<a href="product.html">Tablets</a>
+													<a href="product.php">Tablets</a>
 												</li>
 												<li>
-													<a href="product.html">Wearable Devices</a>
+													<a href="product.php">Wearable Devices</a>
 												</li>
 												<li>
-													<a href="product.html">Smart Home</a>
+													<a href="product.php">Smart Home</a>
 												</li>
 											</ul>
 										</div>
 										<div class="col-sm-6 multi-gd-img">
 											<ul class="multi-column-dropdown">
 												<li>
-													<a href="product.html">Laptops</a>
+													<a href="product.php">Laptops</a>
 												</li>
 												<li>
-													<a href="product.html">Drives & Storage</a>
+													<a href="product.php">Drives & Storage</a>
 												</li>
 												<li>
-													<a href="product.html">Printers & Ink</a>
+													<a href="product.php">Printers & Ink</a>
 												</li>
 												<li>
-													<a href="product.html">Networking Devices</a>
+													<a href="product.php">Networking Devices</a>
 												</li>
 												<li>
-													<a href="product.html">Computer Accessories</a>
+													<a href="product.php">Computer Accessories</a>
 												</li>
 												<li>
-													<a href="product.html">Game Zone</a>
+													<a href="product.php">Game Zone</a>
 												</li>
 												<li>
-													<a href="product.html">Software</a>
+													<a href="product.php">Software</a>
 												</li>
 											</ul>
 										</div>
@@ -702,62 +702,62 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<div class="col-sm-6 multi-gd-img">
 											<ul class="multi-column-dropdown">
 												<li>
-													<a href="product2.html">Televisions</a>
+													<a href="product2.php">Televisions</a>
 												</li>
 												<li>
-													<a href="product2.html">Home Entertainment Systems</a>
+													<a href="product2.php">Home Entertainment Systems</a>
 												</li>
 												<li>
-													<a href="product2.html">Headphones</a>
+													<a href="product2.php">Headphones</a>
 												</li>
 												<li>
-													<a href="product2.html">Speakers</a>
+													<a href="product2.php">Speakers</a>
 												</li>
 												<li>
-													<a href="product2.html">MP3, Media Players & Accessories</a>
+													<a href="product2.php">MP3, Media Players & Accessories</a>
 												</li>
 												<li>
-													<a href="product2.html">Audio & Video Accessories</a>
+													<a href="product2.php">Audio & Video Accessories</a>
 												</li>
 												<li>
-													<a href="product2.html">Cameras</a>
+													<a href="product2.php">Cameras</a>
 												</li>
 												<li>
-													<a href="product2.html">DSLR Cameras</a>
+													<a href="product2.php">DSLR Cameras</a>
 												</li>
 												<li>
-													<a href="product2.html">Camera Accessories</a>
+													<a href="product2.php">Camera Accessories</a>
 												</li>
 											</ul>
 										</div>
 										<div class="col-sm-6 multi-gd-img">
 											<ul class="multi-column-dropdown">
 												<li>
-													<a href="product2.html">Musical Instruments</a>
+													<a href="product2.php">Musical Instruments</a>
 												</li>
 												<li>
-													<a href="product2.html">Gaming Consoles</a>
+													<a href="product2.php">Gaming Consoles</a>
 												</li>
 												<li>
-													<a href="product2.html">All Electronics</a>
+													<a href="product2.php">All Electronics</a>
 												</li>
 												<li>
-													<a href="product2.html">Air Conditioners</a>
+													<a href="product2.php">Air Conditioners</a>
 												</li>
 												<li>
-													<a href="product2.html">Refrigerators</a>
+													<a href="product2.php">Refrigerators</a>
 												</li>
 												<li>
-													<a href="product2.html">Washing Machines</a>
+													<a href="product2.php">Washing Machines</a>
 												</li>
 												<li>
-													<a href="product2.html">Kitchen & Home Appliances</a>
+													<a href="product2.php">Kitchen & Home Appliances</a>
 												</li>
 												<li>
-													<a href="product2.html">Heating & Cooling Appliances</a>
+													<a href="product2.php">Heating & Cooling Appliances</a>
 												</li>
 												<li>
-													<a href="product2.html">All Appliances</a>
+													<a href="product2.php">All Appliances</a>
 												</li>
 											</ul>
 										</div>
@@ -766,28 +766,28 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 						</li>
 						<li class="nav-item mr-lg-2 mb-lg-0 mb-2">
-							<a class="nav-link" href="about.html">About Us</a>
+							<a class="nav-link" href="about.php">About Us</a>
 						</li>
 						<li class="nav-item mr-lg-2 mb-lg-0 mb-2">
-							<a class="nav-link" href="product.html">New Arrivals</a>
+							<a class="nav-link" href="product.php">New Arrivals</a>
 						</li>
 						<li class="nav-item dropdown mr-lg-2 mb-lg-0 mb-2">
 							<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 								Pages
 							</a>
 							<div class="dropdown-menu">
-								<a class="dropdown-item" href="product.html">Product 1</a>
-								<a class="dropdown-item" href="product2.html">Product 2</a>
+								<a class="dropdown-item" href="product.php">Product 1</a>
+								<a class="dropdown-item" href="product2.php">Product 2</a>
 								<div class="dropdown-divider"></div>
-								<a class="dropdown-item" href="single.html">Single Product 1</a>
-								<a class="dropdown-item" href="single2.html">Single Product 2</a>
+								<a class="dropdown-item" href="single.php">Single Product 1</a>
+								<a class="dropdown-item" href="single2.php">Single Product 2</a>
 								<div class="dropdown-divider"></div>
-								<a class="dropdown-item" href="checkout.html">Checkout Page</a>
-								<a class="dropdown-item" href="payment.html">Payment Page</a>
+								<a class="dropdown-item" href="checkout.php">Checkout Page</a>
+								<a class="dropdown-item" href="payment.php">Payment Page</a>
 							</div>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="contact.html">Contact Us</a>
+							<a class="nav-link" href="contact.php">Contact Us</a>
 						</li>
 					</ul>
 				</div>
@@ -807,7 +807,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="container">
 				<ul class="w3_short">
 					<li>
-						<a href="index.html">Home</a>
+						<a href="index.php">Home</a>
 						<i>|</i>
 					</li>
 					<li>Electronics</li>
@@ -839,13 +839,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/m1.jpg" alt="">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 										</div>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">Samsung Galaxy J7</a>
+												<a href="single.php">Samsung Galaxy J7</a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$200.00</span>
@@ -877,7 +877,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/m2.jpg" alt="">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
@@ -885,7 +885,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										</div>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">OPPO A37f</a>
+												<a href="single.php">OPPO A37f</a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$230.00</span>
@@ -917,7 +917,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/m3.jpg" alt="">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
@@ -925,7 +925,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										</div>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">Apple iPhone X</a>
+												<a href="single.php">Apple iPhone X</a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$280.00</span>
@@ -962,13 +962,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/mk1.jpg" alt="">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 										</div>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">Infinix Hot S3</a>
+												<a href="single.php">Infinix Hot S3</a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$300.00</span>
@@ -1001,14 +1001,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/mk2.jpg" alt="">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 
 										</div>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">Moto X4 (6 GB)</a>
+												<a href="single.php">Moto X4 (6 GB)</a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$233.00</span>
@@ -1040,13 +1040,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/mk3.jpg" alt="">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 										</div>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">iVooMi i Series</a>
+												<a href="single.php">iVooMi i Series</a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$249.00</span>
@@ -1084,13 +1084,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/mk4.jpg" alt="" class="img-fluid">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 										</div>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">Dell Vostro Laptop</a>
+												<a href="single.php">Dell Vostro Laptop</a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$252.00</span>
@@ -1122,13 +1122,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/mk5.jpg" alt="" class="img-fluid">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 										</div>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">Acer Laptop</a>
+												<a href="single.php">Acer Laptop</a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$240.00</span>
@@ -1160,13 +1160,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/mk6.jpg" alt="" class="img-fluid">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 										</div>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">Lenovo </a>
+												<a href="single.php">Lenovo </a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$300.00</span>
@@ -1203,14 +1203,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/mk7.jpg" alt="" class="img-fluid">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 										</div>
 										<span class="product-new-top">New</span>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">Intex Power Bank</a>
+												<a href="single.php">Intex Power Bank</a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$100.00</span>
@@ -1242,14 +1242,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/mk8.jpg" alt="" class="img-fluid">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 										</div>
 										<span class="product-new-top">New</span>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">HP Wireless Printer</a>
+												<a href="single.php">HP Wireless Printer</a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$243.00</span>
@@ -1280,13 +1280,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<img src="images/mk9.jpg" alt="" class="img-fluid">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="single.php" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 										</div>
 										<div class="item-info-product text-center border-top mt-4">
 											<h4 class="pt-1">
-												<a href="single.html">Alcatel Tablet</a>
+												<a href="single.php">Alcatel Tablet</a>
 											</h4>
 											<div class="info-product-price my-2">
 												<span class="item_price">$320.00</span>
@@ -1630,22 +1630,22 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<h3 class="text-white font-weight-bold mb-3">Categories</h3>
 						<ul>
 							<li class="mb-3">
-								<a href="product.html">Mobiles </a>
+								<a href="product.php">Mobiles </a>
 							</li>
 							<li class="mb-3">
-								<a href="product.html">Computers</a>
+								<a href="product.php">Computers</a>
 							</li>
 							<li class="mb-3">
-								<a href="product.html">TV, Audio</a>
+								<a href="product.php">TV, Audio</a>
 							</li>
 							<li class="mb-3">
-								<a href="product2.html">Smartphones</a>
+								<a href="product2.php">Smartphones</a>
 							</li>
 							<li class="mb-3">
-								<a href="product.html">Washing Machines</a>
+								<a href="product.php">Washing Machines</a>
 							</li>
 							<li>
-								<a href="product2.html">Refrigerators</a>
+								<a href="product2.php">Refrigerators</a>
 							</li>
 						</ul>
 					</div>
@@ -1655,22 +1655,22 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<h3 class="text-white font-weight-bold mb-3">Quick Links</h3>
 						<ul>
 							<li class="mb-3">
-								<a href="about.html">About Us</a>
+								<a href="about.php">About Us</a>
 							</li>
 							<li class="mb-3">
-								<a href="contact.html">Contact Us</a>
+								<a href="contact.php">Contact Us</a>
 							</li>
 							<li class="mb-3">
-								<a href="help.html">Help</a>
+								<a href="help.php">Help</a>
 							</li>
 							<li class="mb-3">
-								<a href="faqs.html">Faqs</a>
+								<a href="faqs.php">Faqs</a>
 							</li>
 							<li class="mb-3">
-								<a href="terms.html">Terms of use</a>
+								<a href="terms.php">Terms of use</a>
 							</li>
 							<li>
-								<a href="privacy.html">Privacy Policy</a>
+								<a href="privacy.php">Privacy Policy</a>
 							</li>
 						</ul>
 					</div>
@@ -1743,34 +1743,34 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<h5 class="font-weight-bold mb-2">Mobile & Tablets :</h5>
 					<ul>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Android Phones</a>
+							<a href="product.php" class="border-right pr-2">Android Phones</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Smartphones</a>
+							<a href="product.php" class="border-right pr-2">Smartphones</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Feature Phones</a>
+							<a href="product.php" class="border-right pr-2">Feature Phones</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Unboxed Phones</a>
+							<a href="product.php" class="border-right pr-2">Unboxed Phones</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Refurbished Phones</a>
+							<a href="product.php" class="border-right pr-2">Refurbished Phones</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2"> Tablets</a>
+							<a href="product.php" class="border-right pr-2"> Tablets</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">CDMA Phones</a>
+							<a href="product.php" class="border-right pr-2">CDMA Phones</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Value Added Services</a>
+							<a href="product.php" class="border-right pr-2">Value Added Services</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Sell Old</a>
+							<a href="product.php" class="border-right pr-2">Sell Old</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Used Mobiles</a>
+							<a href="product.php" class="border-right pr-2">Used Mobiles</a>
 						</li>
 					</ul>
 				</div>
@@ -1778,31 +1778,31 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<h5 class="font-weight-bold mb-2">Computers :</h5>
 					<ul>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Laptops </a>
+							<a href="product.php" class="border-right pr-2">Laptops </a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Printers</a>
+							<a href="product.php" class="border-right pr-2">Printers</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Routers</a>
+							<a href="product.php" class="border-right pr-2">Routers</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Ink & Toner Cartridges</a>
+							<a href="product.php" class="border-right pr-2">Ink & Toner Cartridges</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Monitors</a>
+							<a href="product.php" class="border-right pr-2">Monitors</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Video Games</a>
+							<a href="product.php" class="border-right pr-2">Video Games</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Unboxed & Refurbished Laptops</a>
+							<a href="product.php" class="border-right pr-2">Unboxed & Refurbished Laptops</a>
 						</li>
 						<li>
-							<a href="product.html" class="border-right pr-2">Assembled Desktops</a>
+							<a href="product.php" class="border-right pr-2">Assembled Desktops</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Data Cards</a>
+							<a href="product2.php" class="border-right pr-2">Data Cards</a>
 						</li>
 					</ul>
 				</div>
@@ -1810,28 +1810,28 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<h5 class="font-weight-bold mb-2">TV, Audio & Large Appliances :</h5>
 					<ul>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">TVs & DTH</a>
+							<a href="product2.php" class="border-right pr-2">TVs & DTH</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Home Theatre Systems</a>
+							<a href="product2.php" class="border-right pr-2">Home Theatre Systems</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Hidden Cameras & CCTVs</a>
+							<a href="product2.php" class="border-right pr-2">Hidden Cameras & CCTVs</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Refrigerators</a>
+							<a href="product2.php" class="border-right pr-2">Refrigerators</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Washing Machines</a>
+							<a href="product2.php" class="border-right pr-2">Washing Machines</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2"> Air Conditioners</a>
+							<a href="product2.php" class="border-right pr-2"> Air Conditioners</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Cameras</a>
+							<a href="product2.php" class="border-right pr-2">Cameras</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Speakers</a>
+							<a href="product2.php" class="border-right pr-2">Speakers</a>
 						</li>
 					</ul>
 				</div>
@@ -1839,31 +1839,31 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<h5 class="font-weight-bold mb-2">Mobile & Laptop Accessories :</h5>
 					<ul>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Headphones</a>
+							<a href="product2.php" class="border-right pr-2">Headphones</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Power Banks </a>
+							<a href="product.php" class="border-right pr-2">Power Banks </a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Backpacks</a>
+							<a href="product.php" class="border-right pr-2">Backpacks</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Mobile Cases & Covers</a>
+							<a href="product.php" class="border-right pr-2">Mobile Cases & Covers</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Pen Drives</a>
+							<a href="product.php" class="border-right pr-2">Pen Drives</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">External Hard Disks</a>
+							<a href="product2.php" class="border-right pr-2">External Hard Disks</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2"> Mouse</a>
+							<a href="product2.php" class="border-right pr-2"> Mouse</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Smart Watches & Fitness Bands</a>
+							<a href="product2.php" class="border-right pr-2">Smart Watches & Fitness Bands</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">MicroSD Cards</a>
+							<a href="product2.php" class="border-right pr-2">MicroSD Cards</a>
 						</li>
 					</ul>
 				</div>
@@ -1871,31 +1871,31 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<h5 class="font-weight-bold mb-2">Appliances :</h5>
 					<ul>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Trimmers</a>
+							<a href="product2.php" class="border-right pr-2">Trimmers</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Hair Dryers</a>
+							<a href="product2.php" class="border-right pr-2">Hair Dryers</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Emergency Lights</a>
+							<a href="product2.php" class="border-right pr-2">Emergency Lights</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Water Purifiers </a>
+							<a href="product2.php" class="border-right pr-2">Water Purifiers </a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Electric Kettles</a>
+							<a href="product2.php" class="border-right pr-2">Electric Kettles</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Hair Straighteners</a>
+							<a href="product2.php" class="border-right pr-2">Hair Straighteners</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Induction Cooktops</a>
+							<a href="product2.php" class="border-right pr-2">Induction Cooktops</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Sewing Machines</a>
+							<a href="product2.php" class="border-right pr-2">Sewing Machines</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2"> Geysers</a>
+							<a href="product2.php" class="border-right pr-2"> Geysers</a>
 						</li>
 					</ul>
 				</div>
@@ -1903,43 +1903,43 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<h5 class="font-weight-bold mb-2">Popular on Electro Store</h5>
 					<ul>
 						<li class="m-sm-1">
-							<a href="product.html" class="border-right pr-2">Offers & Coupons</a>
+							<a href="product.php" class="border-right pr-2">Offers & Coupons</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Couple Watches</a>
+							<a href="product2.php" class="border-right pr-2">Couple Watches</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Gas Stoves</a>
+							<a href="product2.php" class="border-right pr-2">Gas Stoves</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2"> Air Coolers</a>
+							<a href="product2.php" class="border-right pr-2"> Air Coolers</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Air Purifiers</a>
+							<a href="product2.php" class="border-right pr-2">Air Purifiers</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Headphones</a>
+							<a href="product2.php" class="border-right pr-2">Headphones</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2"> Headsets</a>
+							<a href="product2.php" class="border-right pr-2"> Headsets</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Pressure Cookers</a>
+							<a href="product2.php" class="border-right pr-2">Pressure Cookers</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Sandwich Makers</a>
+							<a href="product2.php" class="border-right pr-2">Sandwich Makers</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Air Friers</a>
+							<a href="product2.php" class="border-right pr-2">Air Friers</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Irons</a>
+							<a href="product2.php" class="border-right pr-2">Irons</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">LED TV</a>
+							<a href="product2.php" class="border-right pr-2">LED TV</a>
 						</li>
 						<li class="m-sm-1">
-							<a href="product2.html" class="border-right pr-2">Sandwich Makers</a>
+							<a href="product2.php" class="border-right pr-2">Sandwich Makers</a>
 						</li>
 					</ul>
 				</div>
