@@ -1,14 +1,8 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html lang="zxx">
 
 <head>
-	<title>Electro Store Ecommerce Category Bootstrap Responsive Web Template | About Us :: w3layouts</title>
+	<title>Carolina Wireless Ecommerce Category Bootstrap Responsive Web Template | About Us :: w3layouts</title>
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
@@ -41,7 +35,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<!-- web fonts -->
 	<link href="//fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext" rel="stylesheet">
 	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese"
-	    rel="stylesheet">
+	rel="stylesheet">
 	<!-- //web fonts -->
 
 </head>
@@ -556,7 +550,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="col-md-3 logo_agile">
 					<h1 class="text-center">
 						<a href="index.php" class="font-weight-bold font-italic">
-							<img src="images/logo2.png" alt=" " class="img-fluid">Electro Store
+						<img src="images/images/swlogo2.svg" alt=" " class="d-none d-sm-block img-fluid">Carol Wireless
 						</a>
 					</h1>
 				</div>
